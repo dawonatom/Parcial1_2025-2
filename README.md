@@ -2,7 +2,11 @@
 
 Este programa implementa un sistema sencillo para gestionar una biblioteca universitaria desde consola.  
 Permite registrar libros, registrar usuarios, y mostrar la información registrada de forma interactiva.
-
+| Requerimiento funcional | Cumplido (✓/X) |
+| :---------------------- | :-------------- |
+| Registro de nuevos libros |✓|
+| Registro de nuevos usuarios |✓|
+| Mínimo 3 categorías de libros |✓|
 ---
 
 ## 🚀 Funcionalidades
@@ -21,16 +25,16 @@ A continuación, se incluyen capturas de ejemplo del programa en ejecución.
 Las imágenes se encuentran en la carpeta `img` y tienen el formato `capturaX.jpg`.
 
 - Menú principal  
-  ![Menú Principal](img/captura1.jpg)
+  ![Menú Principal](img/captura1.png)
 
 - Registro de libro  
-  ![Registro de Libro](img/captura2.jpg)
+  ![Registro de Libro](img/captura2.png)
 
 - Registro de usuario  
-  ![Registro de Usuario](img/captura3.jpg)
+  ![Registro de Usuario](img/captura3.png)
 
 - Visualización de registros  
-  ![Listado de Registros](img/captura4.jpg)
+  ![Listado de Registros](img/captura4.png)
 
 ---
 
