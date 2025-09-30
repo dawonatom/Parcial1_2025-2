@@ -22,7 +22,6 @@ Permite registrar libros, registrar usuarios, y mostrar la información registra
 ## 🖼️ Capturas de funcionamiento
 
 A continuación, se incluyen capturas de ejemplo del programa en ejecución.  
-Las imágenes se encuentran en la carpeta `img` y tienen el formato `capturaX.jpg`.
 
 - Menú principal  
   ![Menú Principal](img/captura1.png)
